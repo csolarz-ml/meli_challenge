@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/MeLi_Topsecret/config/applicationhost.config123
+/.vs/MeLi_Topsecret/v16/.suo
+/MeLi_Topsecret.Domain/bin
+/MeLi_Topsecret.Domain/obj
+/MeLi_Topsecret.Web/bin
+/MeLi_Topsecret.Web/obj
+/.vs/MeLi_Topsecret/DesignTimeBuild/.dtbcache.v2
+/.vs/MeLi_Topsecret/v16/TestStore/0/000.testlog
+/.vs/MeLi_Topsecret/v16/TestStore/0/testlog.manifest
+/MeLi_Topsecret.Tests/bin/Debug/netcoreapp3.1
+/MeLi_Topsecret.Tests/obj
